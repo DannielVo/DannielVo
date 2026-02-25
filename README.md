@@ -21,7 +21,3 @@ I specialize in building modern frontend applications with React, and develop ba
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e293b?logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-052e16?logo=mongodb)
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=DANNIELVO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DANNIELVO&layout=compact&theme=tokyonight)
