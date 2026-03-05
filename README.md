@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Danniel
+# 👋 Hi, I'm Danniel Vo
 
 I specialize in building modern frontend applications with React, and develop backend services using Node.js and Express. I’m passionate about creating scalable, user-friendly web applications and continuously expanding my skill set.
 
